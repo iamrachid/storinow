@@ -1,0 +1,13 @@
+{%- liquid
+	if settings.use_ask
+	echo '<div class="lazyload lazypreload" data-include="'
+	echo product.url
+	echo '?view=ask"></div>'
+	endif
+	if settings.use_wide
+	  render 'photoswipe'
+	endif
+	section 'product-template'
+	section 'kt_recentlyViewedProducts'
+	section 'kt_related-products'
+-%}
