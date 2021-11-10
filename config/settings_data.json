@@ -267,7 +267,7 @@
     "use_search": true,
     "use_search_ajax": true,
     "use_search_by_collection": true,
-    "search_type_page": true,
+    "search_type_page": false,
     "search_type_article": true,
     "limit_search": 15,
     "blog_layout": "01",
