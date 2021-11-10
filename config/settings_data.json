@@ -444,6 +444,19 @@
               "label": ""
             }
           },
+          "d5d8e006-59c3-446c-bd36-df5286538971": {
+            "type": "coll_image",
+            "settings": {
+              "menu_links_width": "830px",
+              "menu_links": "colections",
+              "name_item": "Catalog",
+              "icon_font": "",
+              "menu_links_per_col": "1",
+              "button_link": "shopify:\/\/collections",
+              "label": "",
+              "color": "#ffffff"
+            }
+          },
           "28a54028-b383-4361-ba8f-984133130f6d": {
             "type": "link",
             "settings": {
@@ -470,29 +483,16 @@
               "icon_font": "",
               "label": ""
             }
-          },
-          "d5d8e006-59c3-446c-bd36-df5286538971": {
-            "type": "coll_image",
-            "settings": {
-              "menu_links_width": "830px",
-              "menu_links": "",
-              "name_item": "Catalog",
-              "icon_font": "",
-              "menu_links_per_col": "1",
-              "button_link": "shopify:\/\/collections",
-              "label": "",
-              "color": "#ffffff"
-            }
           }
         },
         "block_order": [
           "1566378197076",
           "1566378228269",
           "909ca058-5c66-4557-9e7a-56e7282af12c",
+          "d5d8e006-59c3-446c-bd36-df5286538971",
           "28a54028-b383-4361-ba8f-984133130f6d",
           "6c23d944-b8ce-49bd-945e-1199681b79df",
-          "59c3fb5e-6a1c-4ccb-8503-22a10b9835bc",
-          "d5d8e006-59c3-446c-bd36-df5286538971"
+          "59c3fb5e-6a1c-4ccb-8503-22a10b9835bc"
         ],
         "settings": {
           "use_header_announcement": false,
