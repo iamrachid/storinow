@@ -443,12 +443,22 @@
               "icon_font": "",
               "label": ""
             }
+          },
+          "5c613316-5072-4629-b535-9db24af3f579": {
+            "type": "link",
+            "settings": {
+              "title": "Catalog",
+              "button_link": "shopify:\/\/collections",
+              "icon_font": "",
+              "label": ""
+            }
           }
         },
         "block_order": [
           "1566378197076",
           "1566378228269",
-          "909ca058-5c66-4557-9e7a-56e7282af12c"
+          "909ca058-5c66-4557-9e7a-56e7282af12c",
+          "5c613316-5072-4629-b535-9db24af3f579"
         ],
         "settings": {
           "use_header_announcement": false,
