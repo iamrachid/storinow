@@ -439,7 +439,7 @@
             "type": "link",
             "settings": {
               "title": "Home",
-              "button_link": "shopify:\/\/collections\/accessories",
+              "button_link": "\/",
               "icon_font": "",
               "label": ""
             }
