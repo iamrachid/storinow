@@ -470,7 +470,7 @@
             "type": "link",
             "settings": {
               "title": "Best Sellers",
-              "button_link": "",
+              "button_link": "shopify:\/\/collections\/best-sellers",
               "icon_font": "",
               "label": ""
             }
