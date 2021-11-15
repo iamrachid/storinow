@@ -651,7 +651,7 @@
               "off_section": false,
               "off_mobile": false,
               "off_desktop": false,
-              "html": "<div class=\"page-header text-center\">\n<h1 class=\"page-title\">Grid Columns<span>Shop<\/span>\n<\/h1>\n<\/div>",
+              "html": "<div class=\"page-header text-center\">\n<h1 class=\"page-title\">pageTitle<span>Shop<\/span>\n<\/h1>\n<\/div>",
               "by_handle_1": "",
               "by_handle_2": "",
               "by_handle_3": "",
@@ -928,8 +928,8 @@
           "1566449984325"
         ],
         "settings": {
-          "color_groups": "Color",
-          "brands_icon": "\/\/cdn.shopify.com\/s\/files\/1\/0264\/6972\/8316\/files\/Molla.png?22176"
+          "color_groups": "",
+          "brands_icon": ""
         }
       },
       "login-register-template": {
