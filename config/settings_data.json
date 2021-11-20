@@ -2397,6 +2397,7 @@
       },
       "1566545600428": {
         "type": "kt_HTML",
+        "disabled": true,
         "settings": {
           "title": "Section Customize",
           "off_mobile": false,
@@ -2426,6 +2427,7 @@
       },
       "1570076389571": {
         "type": "md_blog",
+        "disabled": true,
         "blocks": {
           "1570076412519": {
             "type": "title",
