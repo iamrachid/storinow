@@ -1855,6 +1855,7 @@
       },
       "1566403665924": {
         "type": "md_banner_template_1",
+        "disabled": true,
         "blocks": {
           "1566532394619": {
             "type": "2",
@@ -1915,7 +1916,6 @@
           },
           "305ae7fb-0db6-4dce-bc89-4060c4bd7ea1": {
             "type": "1",
-            "disabled": true,
             "settings": {
               "turnoff": false,
               "title": "Banner type 1",
@@ -2042,6 +2042,7 @@
       },
       "1566437726874": {
         "type": "md_product_section_tab_slide",
+        "disabled": true,
         "blocks": {
           "1566437735175": {
             "type": "item",
@@ -2299,6 +2300,7 @@
       },
       "1566535149884": {
         "type": "md_countdown_section_with_banner_1",
+        "disabled": true,
         "blocks": {
           "1566535149884-0": {
             "type": "product",
@@ -2357,8 +2359,8 @@
               "fsize_name_tab": 1.4,
               "margin_btitles": 1.5,
               "margin_btitle": 2.8,
-              "products_1": "all-h2-2",
-              "products_2": "furniture-h2-2",
+              "products_1": "best-sellers",
+              "products_2": "",
               "products_3": "decoration-h2-2",
               "products_4": "lighting-h2-1",
               "products_5": "",
