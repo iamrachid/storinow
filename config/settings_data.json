@@ -2312,7 +2312,7 @@
               "products_6": "",
               "limit_per_row": 5,
               "limit": 5,
-              "range_row": 2,
+              "range_row": 3,
               "load_btn": true,
               "name_btn": "<span>VIEW MORE<\/span><i class=\"fkt-long-arrow-right\" aria-hidden=\"true\"><\/i>",
               "style_btn": "btn-outline-darker",
