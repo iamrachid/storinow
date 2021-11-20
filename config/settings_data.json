@@ -1987,18 +1987,17 @@
       },
       "1566437726874": {
         "type": "md_product_section_tab_slide",
-        "disabled": true,
         "blocks": {
           "1566437735175": {
             "type": "item",
             "settings": {
-              "title": "",
+              "title": "New Arrivals",
               "stitle": "",
               "title_align": "text-center",
               "margin_btitle": 3,
-              "products_1": "featured-h2-1",
-              "products_2": "on-sale-h2-1",
-              "products_3": "top-rated-h2-1",
+              "products_1": "new-arrivals",
+              "products_2": "",
+              "products_3": "",
               "products_4": "",
               "products_5": "",
               "products_6": "",
@@ -2330,8 +2329,8 @@
               "fsize_name_tab": 1.4,
               "margin_btitles": 1.5,
               "margin_btitle": 3,
-              "products_1": "new-arrivals",
-              "products_2": "new-arrivals",
+              "products_1": "",
+              "products_2": "",
               "products_3": "",
               "products_4": "",
               "products_5": "",
@@ -2647,15 +2646,25 @@
           "dots_position": "inside",
           "responsive": "{\n  \"0\": {\n    \"slidesPerView\": 1,\n    \"spaceBetween\": 0\n  },\n  \"375\": {\n    \"slidesPerView\": 2,\n    \"spaceBetween\": 10\n  },\n  \"768\": {\n    \"slidesPerView\": 3,\n    \"spaceBetween\": 20\n  },\n  \"992\": {\n    \"slidesPerView\": 4,\n    \"spaceBetween\": 20\n  },\n  \"1200\": {\n    \"slidesPerView\": 5,\n    \"spaceBetween\": 20\n  },\n  \"1500\": {\n    \"slidesPerView\": 5,\n    \"spaceBetween\": 20\n  }\n}"
         }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "settings": {
+          "list_coll_width_section": "container",
+          "list_coll_width_content": true,
+          "display_type": "all",
+          "sort": "alphabetical",
+          "grid": "3"
+        }
       }
     },
     "content_for_index": [
       "1566371829835",
       "1566375748123",
       "1566403665924",
-      "1566437726874",
       "1566535149884",
       "1566535719773",
+      "1566437726874",
       "1566545600428",
       "1570076389571",
       "1566443930152",
