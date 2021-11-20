@@ -2180,47 +2180,17 @@
       "1566371829835": {
         "type": "kt_slideshow",
         "blocks": {
-          "1566373570019-1": {
-            "type": "image",
-            "settings": {
-              "lazypreload": true,
-              "heading": "Deals and Promotions",
-              "font_heading": "poppins_n3",
-              "subheading": "Wooden<br>\nSideboard Table",
-              "font_subheading": "poppins_n4",
-              "description": "",
-              "font_description": "poppins_n4",
-              "text_alignment_top": 50,
-              "text_alignment_left": 0,
-              "text_alignment": "",
-              "text_alignment_top_mb": 50,
-              "text_alignment_left_mb": 0,
-              "text_alignment_mb": "",
-              "style_btn_1": "btn-outline-gray",
-              "style_btn_rounded_1": "",
-              "btn_shadow_1": false,
-              "link_1": "#",
-              "textBtn_1": "<span>SHOP NOW<\/span><i class=\"fkt-long-arrow-right\"><\/i>",
-              "style_btn_2": "btn-outline-primary-2",
-              "style_btn_rounded_2": "",
-              "btn_shadow_2": false,
-              "link_2": "",
-              "textBtn_2": "",
-              "turnoff": false,
-              "title": "Item image",
-              "width_section": true,
-              "css_block": ""
-            }
-          },
           "1566373570019-2": {
             "type": "image",
             "settings": {
-              "lazypreload": false,
-              "heading": "Bedroom Furniture",
+              "image": "shopify:\/\/shop_images\/hero1_68035f91-2123-463b-acbb-1f82819b0546.png",
+              "image_mb": "shopify:\/\/shop_images\/hero1-mobile.png",
+              "lazypreload": true,
+              "heading": "Accessories",
               "font_heading": "poppins_n3",
-              "subheading": "Find Comfort<br>\nThat Suits You.",
+              "subheading": "Portable Mini Refillable Perfume Atomizer",
               "font_subheading": "poppins_n4",
-              "description": "",
+              "description": "The Secret Of People Who\nALWAYS Smell Good",
               "font_description": "poppins_n4",
               "text_alignment_top": 50,
               "text_alignment_left": 100,
@@ -2275,12 +2245,45 @@
               "width_section": true,
               "css_block": ""
             }
+          },
+          "1566373570019-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/hero1.png",
+              "lazypreload": true,
+              "heading": "Deals and Promotions",
+              "font_heading": "poppins_n3",
+              "subheading": "Wooden<br>\nSideboard Table",
+              "font_subheading": "poppins_n4",
+              "description": "",
+              "font_description": "poppins_n4",
+              "text_alignment_top": 50,
+              "text_alignment_left": 0,
+              "text_alignment": "",
+              "text_alignment_top_mb": 50,
+              "text_alignment_left_mb": 0,
+              "text_alignment_mb": "",
+              "style_btn_1": "btn-outline-gray",
+              "style_btn_rounded_1": "",
+              "btn_shadow_1": false,
+              "link_1": "#",
+              "textBtn_1": "<span>SHOP NOW<\/span><i class=\"fkt-long-arrow-right\"><\/i>",
+              "style_btn_2": "btn-outline-primary-2",
+              "style_btn_rounded_2": "",
+              "btn_shadow_2": false,
+              "link_2": "",
+              "textBtn_2": "",
+              "turnoff": false,
+              "title": "Item image",
+              "width_section": true,
+              "css_block": ""
+            }
           }
         },
         "block_order": [
-          "1566373570019-1",
           "1566373570019-2",
-          "1566373570019-3"
+          "1566373570019-3",
+          "1566373570019-1"
         ],
         "settings": {
           "title": "Slideshow",
