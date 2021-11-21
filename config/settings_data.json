@@ -217,7 +217,7 @@
     "use_shipping_info": false,
     "show_share_buttons": true,
     "trust_image_prdsingle": false,
-    "atc_btn": "btn-white",
+    "atc_btn": "btn-outline-primary-2",
     "atc_btn_rounded": "",
     "atc_btn_shadow": true,
     "atc_btn_big": false,
