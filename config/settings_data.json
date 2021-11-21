@@ -594,12 +594,22 @@
               "color": "#ffffff",
               "bg_color": "#e53939"
             }
+          },
+          "39a9e5c0-f8fa-4152-9ce1-50009cf60234": {
+            "type": "color",
+            "settings": {
+              "title": "choklaty",
+              "color_1_c": "#d6893c",
+              "color_2_c": "",
+              "color_img": false
+            }
           }
         },
         "block_order": [
           "1570843796803",
           "1570843956465",
-          "1588305874679"
+          "1588305874679",
+          "39a9e5c0-f8fa-4152-9ce1-50009cf60234"
         ],
         "settings": {
         }
