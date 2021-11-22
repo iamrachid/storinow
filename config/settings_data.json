@@ -203,7 +203,7 @@
     "use_thumb_vertical": true,
     "max_width_vertical_thumbnail": 21,
     "use_thumb_hidden_on_mb": false,
-    "use_maxheight": true,
+    "use_maxheight": false,
     "img_type_prd_single": "normal",
     "gallery": false,
     "use_zoom": true,
