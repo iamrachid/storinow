@@ -816,7 +816,7 @@
         "settings": {
           "layout": "1",
           "layout_tabs": "1",
-          "use_d_c_b": true
+          "use_d_c_b": false
         }
       },
       "kt_recentlyViewedProducts": {
