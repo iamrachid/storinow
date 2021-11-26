@@ -205,7 +205,7 @@
     "use_thumb_hidden_on_mb": false,
     "use_maxheight": false,
     "img_type_prd_single": "normal",
-    "gallery": false,
+    "gallery": true,
     "use_zoom": true,
     "use_wide": true,
     "use_ask": false,
