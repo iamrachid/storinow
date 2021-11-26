@@ -344,7 +344,7 @@
     "countdown_cart": true,
     "countdown_cart_minutes": 5,
     "countdown_cart_text": "<i class=\"fkt-lg fkt-info-circle mr-1\"><\/i>Someone has placed an order on one of the items you have in the cart. We'll keep it for you for <strong id=\"timer_count\">0:00<\/strong> minutes.",
-    "use_fbt": false,
+    "use_fbt": true,
     "fbt_prds_type": "custom_mn",
     "custom_html_head": "<meta name=\"google-site-verification\" content=\"_BCLYBxBpNI6QPGJbxUNNDLyX0qBQ3XOdC0h9okOVCs\">\n<link rel=\"preconnect\" href=\"https:\/\/fonts.gstatic.com\">\n<style>\nbody {--f_family: Jost;}\n<\/style>",
     "show_custom_css": true,
