@@ -312,7 +312,7 @@
     "delivery_off_sunday": true,
     "delivery_off_days": "23\/12\/****|24\/12\/****|01\/01\/****",
     "delivery_format_date": "dddd MM\/DD\/YYYY",
-    "enable_suggest_products": true,
+    "enable_suggest_products": false,
     "collection_suggest": "",
     "display_index": true,
     "display_product": true,
