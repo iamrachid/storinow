@@ -342,7 +342,7 @@
     "free_shipping_above": "2000.99",
     "free_shipping_above_prd": "",
     "countdown_cart": true,
-    "countdown_cart_minutes": 4,
+    "countdown_cart_minutes": 10,
     "countdown_cart_text": "<i class=\"fkt-lg fkt-info-circle mr-1\"><\/i>Someone has placed an order on one of the items you have in the cart. We'll keep it for you for <strong id=\"timer_count\">0:00<\/strong> minutes.",
     "use_fbt": false,
     "fbt_prds_type": "custom_mn",
