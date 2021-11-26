@@ -64,7 +64,7 @@
     "terms_conditions": true,
     "terms_and_privacy_conditions": "<p>I accept the <a href=\"\/pages\/terms-privacy-policy\">Terms \/ Privacy Policy.<\/a><\/p>",
     "terms_and_privacy_conditions_noti": "<p>You must agree with the <strong>terms and conditions<\/strong> of sales to check out.<\/p>",
-    "use_threshold_in_page": true,
+    "use_threshold_in_page": false,
     "use_d_c_b_cart_drop": false,
     "use_threshold_in_drop": false,
     "edit_it_cart_drawer": true,
