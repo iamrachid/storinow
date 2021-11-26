@@ -209,6 +209,7 @@
     "use_zoom": true,
     "use_wide": true,
     "use_ask": false,
+    "use_notify_onavai": false,
     "show_vendor": false,
     "show_sku": false,
     "show_shortdes": true,
