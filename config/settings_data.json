@@ -369,7 +369,7 @@
     "business_paddress_jsonld": "",
     "business_zaddress_jsonld": "",
     "business_coaddress_jsonld": "",
-    "use_app": true,
+    "use_app": false,
     "name_app": "",
     "names_app": "",
     "favicon_app": "shopify:\/\/shop_images\/android-chrome-256x256_cda51ca9-488c-42b6-a04c-d4255fb059e2.png",
